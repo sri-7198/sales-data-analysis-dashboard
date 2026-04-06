@@ -1,15 +1,15 @@
 # sales-data-analysis-dashboard
 End-to-end sales data analysis using Python
-# 📊 Sales Data Analysis Dashboard
+#  Sales Data Analysis Dashboard
 
-## 🔹 Project Overview
+## Project Overview
 This project analyzes 12,000+ sales records using Python to generate business insights and visual dashboards.
 
-## 🔹 Tools Used
+## Tools Used
 - Python (Pandas, NumPy)
 - Matplotlib, Seaborn
 
-## 🔹 Key Features
+## Key Features
 - Data Cleaning & Transformation
 - KPI Calculation (Revenue, Profit, Margin)
 - Visualizations:
@@ -19,16 +19,16 @@ This project analyzes 12,000+ sales records using Python to generate business in
   - Profit vs Sales
   - Category Distribution
 
-## 🔹 Key Insights
+## Key Insights
 - West region generates highest revenue
 - Electronics is the top-performing category
 - Laptop is the best-selling product
 - Seasonal trends observed in mid-year
 
-## 🔹 Output
+## Output
 Dashboard visualization included in project
 
-## 🔹 Files Included
+## Files Included
 - sales_analysis.py
 - cleaned_sales_data.csv
 - sales_dashboard.png
